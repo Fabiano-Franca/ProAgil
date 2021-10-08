@@ -1,0 +1,14 @@
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.deps.json
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.json
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.dev.json
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csprojAssemblyReference.cache
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cache
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cs
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfo.cs
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\Users\Job\Desktop\dotnetcore\proagil.webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
