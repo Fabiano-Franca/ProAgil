@@ -1,17 +1,137 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Job\\Desktop\\dotnetcore\\proagil.webapi\\ProAgil.WebAPI.csproj": {}
+    "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.webAPI\\ProAgil.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Job\\Desktop\\dotnetcore\\proagil.webapi\\ProAgil.WebAPI.csproj": {
+    "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Job\\Desktop\\dotnetcore\\proagil.webapi\\ProAgil.WebAPI.csproj",
-        "projectName": "ProAgil.WebAPI",
-        "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\proagil.webapi\\ProAgil.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj",
+        "projectName": "ProAgil.Dominio",
+        "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj",
         "packagesPath": "C:\\Users\\Job\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\proagil.webapi\\obj\\",
+        "outputPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Job\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\ProAgil.Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\ProAgil.Repositorio.csproj",
+        "projectName": "ProAgil.Repositorio",
+        "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\ProAgil.Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Job\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Job\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.webAPI\\ProAgil.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.webAPI\\ProAgil.WebAPI.csproj",
+        "projectName": "ProAgil.WebAPI",
+        "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.webAPI\\ProAgil.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Job\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -31,7 +151,14 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Dominio\\ProAgil.Dominio.csproj"
+              },
+              "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\ProAgil.Repositorio.csproj": {
+                "projectPath": "C:\\Users\\Job\\Desktop\\dotnetcore\\ProAgil.Repositorio\\ProAgil.Repositorio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

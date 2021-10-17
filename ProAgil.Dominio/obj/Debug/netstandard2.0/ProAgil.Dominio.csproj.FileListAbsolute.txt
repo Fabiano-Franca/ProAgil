@@ -1,0 +1,9 @@
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\bin\Debug\netstandard2.0\ProAgil.Dominio.deps.json
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\bin\Debug\netstandard2.0\ProAgil.Dominio.dll
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\bin\Debug\netstandard2.0\ProAgil.Dominio.pdb
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.csprojAssemblyReference.cache
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.AssemblyInfoInputs.cache
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.AssemblyInfo.cs
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.dll
+C:\Users\Job\Desktop\dotnetcore\ProAgil.Dominio\obj\Debug\netstandard2.0\ProAgil.Dominio.pdb

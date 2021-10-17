@@ -9,4 +9,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0"/>
     <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.0"/>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProAgil.Dominio\ProAgil.Dominio.csproj" />
+    <ProjectReference Include="..\ProAgil.Repositorio\ProAgil.Repositorio.csproj" />
+  </ItemGroup>
 </Project>
